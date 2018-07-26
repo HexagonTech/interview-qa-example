@@ -1,0 +1,27 @@
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\PageObjects\obj\Debug\PageObjects.csprojResolveAssemblyReference.cache
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\PageObjects\bin\Debug\PageObjects.dll
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\PageObjects\bin\Debug\PageObjects.pdb
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\PageObjects\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\PageObjects\bin\Debug\ThoughtWorks.Selenium.Core.dll
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\PageObjects\bin\Debug\WebDriver.dll
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\PageObjects\bin\Debug\WebDriver.Support.dll
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\PageObjects\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\PageObjects\bin\Debug\ThoughtWorks.Selenium.Core.xml
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\PageObjects\bin\Debug\WebDriver.xml
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\PageObjects\bin\Debug\WebDriver.Support.xml
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\PageObjects\obj\Debug\PageObjects.dll
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\PageObjects\obj\Debug\PageObjects.pdb
+D:\Projects\interview-task\qa-test-task\PageObjects\bin\Debug\PageObjects.dll
+D:\Projects\interview-task\qa-test-task\PageObjects\bin\Debug\PageObjects.pdb
+D:\Projects\interview-task\qa-test-task\PageObjects\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Projects\interview-task\qa-test-task\PageObjects\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\Projects\interview-task\qa-test-task\PageObjects\bin\Debug\WebDriver.dll
+D:\Projects\interview-task\qa-test-task\PageObjects\bin\Debug\WebDriver.Support.dll
+D:\Projects\interview-task\qa-test-task\PageObjects\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\Projects\interview-task\qa-test-task\PageObjects\bin\Debug\ThoughtWorks.Selenium.Core.xml
+D:\Projects\interview-task\qa-test-task\PageObjects\bin\Debug\WebDriver.xml
+D:\Projects\interview-task\qa-test-task\PageObjects\bin\Debug\WebDriver.Support.xml
+D:\Projects\interview-task\qa-test-task\PageObjects\obj\Debug\PageObjects.csprojResolveAssemblyReference.cache
+D:\Projects\interview-task\qa-test-task\PageObjects\obj\Debug\PageObjects.csproj.CoreCompileInputs.cache
+D:\Projects\interview-task\qa-test-task\PageObjects\obj\Debug\PageObjects.dll
+D:\Projects\interview-task\qa-test-task\PageObjects\obj\Debug\PageObjects.pdb

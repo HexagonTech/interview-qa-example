@@ -1,0 +1,34 @@
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\bin\Debug\QATestTask.dll
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\bin\Debug\QATestTask.pdb
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\obj\Debug\QATestTask.dll
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\obj\Debug\QATestTask.pdb
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\bin\Debug\PageObjects.dll
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\bin\Debug\WebDriver.Support.dll
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\bin\Debug\PageObjects.pdb
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\bin\Debug\WebDriver.xml
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\bin\Debug\WebDriver.Support.xml
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\bin\Debug\FluentAssertions.dll
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\bin\Debug\System.ValueTuple.dll
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\bin\Debug\FluentAssertions.pdb
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\bin\Debug\FluentAssertions.xml
+D:\Projects\interview-task\qa-test-task\QATestTask\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+D:\Projects\interview-task\qa-test-task\QATestTask\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+D:\Projects\interview-task\qa-test-task\QATestTask\obj\Debug\QATestTask.dll
+D:\Projects\interview-task\qa-test-task\QATestTask\obj\Debug\QATestTask.pdb
+D:\Projects\interview-task\qa-test-task\QATestTask\bin\Debug\QATestTask.dll.config
+D:\Projects\interview-task\qa-test-task\QATestTask\bin\Debug\QATestTask.dll
+D:\Projects\interview-task\qa-test-task\QATestTask\bin\Debug\QATestTask.pdb
+D:\Projects\interview-task\qa-test-task\QATestTask\bin\Debug\FluentAssertions.dll
+D:\Projects\interview-task\qa-test-task\QATestTask\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\interview-task\qa-test-task\QATestTask\bin\Debug\PageObjects.dll
+D:\Projects\interview-task\qa-test-task\QATestTask\bin\Debug\System.ValueTuple.dll
+D:\Projects\interview-task\qa-test-task\QATestTask\bin\Debug\WebDriver.Support.dll
+D:\Projects\interview-task\qa-test-task\QATestTask\bin\Debug\PageObjects.pdb
+D:\Projects\interview-task\qa-test-task\QATestTask\bin\Debug\FluentAssertions.pdb
+D:\Projects\interview-task\qa-test-task\QATestTask\bin\Debug\FluentAssertions.xml
+D:\Projects\interview-task\qa-test-task\QATestTask\bin\Debug\System.ValueTuple.xml
+D:\Projects\interview-task\qa-test-task\QATestTask\bin\Debug\WebDriver.xml
+D:\Projects\interview-task\qa-test-task\QATestTask\bin\Debug\WebDriver.Support.xml
